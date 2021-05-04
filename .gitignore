@@ -1,7 +1,8 @@
+.gitignore
 *.pyc
 !./bin/*.hpp
 !EAs/*.hpp
 !move/*.hpp
 !local_search/*.hpp
 !problem/*.hpp
-*/
+*/*
