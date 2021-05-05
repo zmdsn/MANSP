@@ -9,3 +9,4 @@
 !heuristic/*.hpp
 */* (copy).hpp
 !instances/gdb/
+!test_MA/*.hpp
