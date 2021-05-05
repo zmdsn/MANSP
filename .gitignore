@@ -5,4 +5,5 @@
 !move/*.hpp
 !local_search/*.hpp
 !problem/*.hpp
-
+!heuristic/.hpp
+*/* (copy).hpp
